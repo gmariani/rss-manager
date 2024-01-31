@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+  <channel>
+    <title>Course Vector's - To Do List</title>
+    <link>http://www.coursevector.com/RSS.html</link>
+    <description>An RSS based To-Do List made for use with Trillian's News Plugin.</description>
+    <language>en-us</language>
+ 
+    <item>
+      <title>Add Task</title>
+      <description>Click here to add a new task</description>
+      <link>http://www.coursevector.com/RSS.html</link>
+    </item>
+
+  </channel>
+</rss>
